@@ -12,5 +12,5 @@ rm -rf dist && parcel build src/index.html --no-minify --public-url
 
 ##### 启动服务
 ```javascript
-yarn src/index.html
+parcel src/index.html
 ```
